@@ -34,7 +34,7 @@ def generate_bullying_score(text, image):
     return final_score
 
 # Example usage
-image_path = "path/to/instagram_image.jpg"  # Replace with the actual path
+image_path = "person1.jpg" 
 text = "You're so ugly and dumb!"  # Example bullying text
 
 image = load_image(image_path)
